@@ -3,7 +3,7 @@
 ## 👋Hi i'm Trajan, Nice to see you !
 - 🌎I'm from Marseille, France
 - 🤖I'm interested in information technologies, sciences, artificial intelligence
-- 📖I'm currently student to be an IA develloper 
+- 📖I'm currently studying to be an AI develloper 
 
 ## Programing Languages 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
