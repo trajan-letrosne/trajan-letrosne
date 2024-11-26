@@ -1,9 +1,9 @@
 ![](https://raw.githubusercontent.com/trajan-letrosne/trajan-letrosne/main/digital-art-style-mental-health-day-awareness-illustration.jpg)
 
-## Hi i'm Trajan, Nice to see you !
-- My name is Trajan and i'm based in Marseille, France
-- I'm interseted in information technologies, sciences, IA 
-- I'm currently student to be an IA develloper 
+## 👋Hi i'm Trajan, Nice to see you !
+- 🌎I'm from Marseille, France
+- 🤖I'm interested in information technologies, sciences, artificial intelligence
+- 📖I'm currently student to be an IA develloper 
 
 ## Programing Languages 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
